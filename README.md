@@ -1,8 +1,9 @@
 <h2> Hi there 👋, I'm Marcos! </h3>
-<!--
+
 <a href="https://www.linkedin.com/in/marcos-royo-9887502b0">
   <img align="left" alt="Marcos's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<!--
 <a href="https://www.instagram.com/jaskirat.mokha/">
   <img align="left" alt="Jaskirat's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
