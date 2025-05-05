@@ -8,7 +8,7 @@
   
 - 🖥️ I'm exploring by myself TypeScript, React and Tailwind in order to start some projects.
   
-- I enjoy backend the most, still, I'm on the way to become a Fullstack developer.
+- 👨🏻‍💻 I enjoy backend the most, still, I'm on the way to become a Fullstack developer.
   
 - 📫 How to reach me: marcosroyobusiness@gmail.com // LinkedIn: https://www.linkedin.com/in/marcos-royo-9887502b0
 
